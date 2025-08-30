@@ -17,7 +17,7 @@ import re
 # Read Excel files
 hl_df = pd.read_excel("/Users/mikemike/Downloads/EIFFAGE CODE/HL_MATERIAUX.xlsx")
 siren_df = pd.read_excel("/Users/mikemike/Downloads/EIFFAGE CODE/SIREN_APE.xlsx")
-naf_df = pd.read_excel("/Users/mikemike/Downloads/EIFFAGE CODE/CF_WF_NAF_France_2024_Adjusted-code.xlsx")
+naf_df = pd.read_excel("CF_WF_NAF_France_2024_Adjusted-code.xlsx")
 
 
 
